@@ -1,3 +1,3 @@
 freemarker的简单使用
 
-kkfilewive 也是使用的这个模板
+kkfileview 也是使用的这个模板
